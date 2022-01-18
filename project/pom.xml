@@ -50,7 +50,7 @@
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                    http://52.15.33.222:9000
+                    http://3.144.245.14:9000
                 </sonar.host.url>
             </properties>
         </profile>
